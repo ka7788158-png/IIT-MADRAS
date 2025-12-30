@@ -1,0 +1,129 @@
+=========================================
+   NATIONAL ROAD SAFETY HACKATHON 2025
+        Material Cost Estimation Report
+=========================================
+
+Report Generated: 2025-10-27 17:15:04
+Input Report File: Road_Safety_Intervention_Report_Final.pdf
+
+-----------------------------------------
+        ITEMIZED COST BREAKDOWN
+-----------------------------------------
+
+Intervention: SPEED LIMIT SIGN
+  Quantity Found: 2 item(s)
+  Source Clause: IRC:67-2022, clause 14.8.8
+  Cost Breakdown:
+    - 600mm Retroreflective Sign Face: 2.00 units @ ₹1200.00/unit = ₹2400.00
+    - 3m Steel Post: 2.00 units @ ₹800.00/unit = ₹1600.00
+    - Concrete for Footing: 0.60 units @ ₹8000.00/unit = ₹4800.00
+  TOTAL for speed limit sign: ₹8800.00
+
+Intervention: SCHOOL AHEAD SIGN
+  Quantity Found: 2 item(s)
+  Source Clause: IRC: 67-2022, clause 15.28
+  Cost Breakdown:
+    - 900mm Triangular Sign Face (Fluorescent Yellow-Green): 2.00 units @ ₹1400.00/unit = ₹2800.00
+    - 3m Steel Post: 2.00 units @ ₹800.00/unit = ₹1600.00
+    - Concrete for Footing: 0.60 units @ ₹8000.00/unit = ₹4800.00
+  TOTAL for school ahead sign: ₹9200.00
+
+Intervention: INFORMATORY FUEL PUMP SIGN
+  Quantity Found: 1 item(s)
+  Source Clause: IRC: 67-2022, clause 17.7
+  Cost Breakdown:
+    - 600mm x 450mm Rectangular Sign Face (Retroreflective): 1.00 units @ ₹1300.00/unit = ₹1300.00
+    - 3m Steel Post: 1.00 units @ ₹800.00/unit = ₹800.00
+    - Concrete for Footing: 0.30 units @ ₹8000.00/unit = ₹2400.00
+  TOTAL for informatory fuel pump sign: ₹4500.00
+
+Intervention: LONGITUDINAL MARKINGS
+  Quantity Found: 200.0 meter(s)
+  Source Clause: IRC:35-2015, clause 3.1
+  Cost Breakdown:
+    - Thermoplastic Paint: 100.00 units @ ₹50.00/unit = ₹5000.00
+    - Retroreflective Glass Beads: 5.00 units @ ₹150.00/unit = ₹750.00
+  TOTAL for longitudinal markings: ₹5750.00
+
+Intervention: NO PARKING SIGN
+  Quantity Found: 2 item(s)
+  Source Clause: IRC: 67-2022, clause 14.7.5
+  Cost Breakdown:
+    - 600mm Circular Sign Face (Retroreflective): 2.00 units @ ₹1200.00/unit = ₹2400.00
+    - 3m Steel Post: 2.00 units @ ₹800.00/unit = ₹1600.00
+    - Concrete for Footing: 0.60 units @ ₹8000.00/unit = ₹4800.00
+  TOTAL for No Parking sign: ₹8800.00
+
+Intervention: PEDESTRIAN CROSSING SIGN
+  Quantity Found: 4 item(s)
+  Source Clause: IRC:67-2022, clause 15.27
+  Cost Breakdown:
+    - 900mm Triangular Sign Face (Retroreflective): 4.00 units @ ₹1400.00/unit = ₹5600.00
+    - 3m Steel Post: 4.00 units @ ₹800.00/unit = ₹3200.00
+    - Concrete for Footing: 1.20 units @ ₹8000.00/unit = ₹9600.00
+  TOTAL for Pedestrian crossing sign: ₹18400.00
+
+Intervention: FADED PEDESTRIAN CROSSING
+  Quantity Found: 1 item(s)
+  Source Clause: IRC:35-2015, clause 11.3
+  Cost Breakdown:
+    - Thermoplastic Paint: 35.00 units @ ₹50.00/unit = ₹1750.00
+    - Retroreflective Glass Beads: 1.75 units @ ₹150.00/unit = ₹262.50
+  TOTAL for Faded pedestrian crossing: ₹2012.50
+
+Intervention: ROAD STUDS
+  Quantity Found: 24 item(s)
+  Source Clause: IRC:35-2015, clause 5.4.6, Table 5.1
+  Cost Breakdown:
+    - Red-White Bi-directional road stud: 24.00 units @ ₹283.11/unit = ₹6794.64
+  TOTAL for road studs: ₹6794.64
+
+Intervention: PEDESTRIAN CROSSING MARKING
+  Quantity Found: 2 item(s)
+  Source Clause: IRC:35-2015, clause 11.3
+  Cost Breakdown:
+    - Thermoplastic Paint: 70.00 units @ ₹50.00/unit = ₹3500.00
+    - Retroreflective Glass Beads: 3.50 units @ ₹150.00/unit = ₹525.00
+  TOTAL for pedestrian crossing marking: ₹4025.00
+
+Intervention: POTHOLE
+  Quantity Found: 0.05 m^3(s)
+  Source Clause: IRC:82-2023, clause 7.5.3.5
+  Cost Breakdown:
+    - Pothole Cold Mix: 120.00 units @ ₹20.00/unit = ₹2400.00
+  TOTAL for Pothole: ₹2400.00
+
+Intervention: SOLAR BLINKER
+  Quantity Found: 2 item(s)
+  Source Clause: IRC: 93-1985, clause 4.2
+  Cost Breakdown:
+    - Solar Blinker Unit: 2.00 units @ ₹1000.00/unit = ₹2000.00
+  TOTAL for Solar blinker: ₹2000.00
+
+Intervention: STREETLIGHTS
+  Quantity Found: 1000.0 meter(s)
+  Source Clause: IRC:SP:73-2018, clause 12.4
+  Cost Breakdown:
+    - Complete 9m LED Streetlight Pole: 40.00 units @ ₹10000.00/unit = ₹400000.00
+  TOTAL for streetlights: ₹400000.00
+
+Intervention: FMM
+  Quantity Found: 2 item(s)
+  Source Clause: IRC:79-2019, clause 4
+  Cost Breakdown:
+    - Flexible Median Marker (FMM): 2.00 units @ ₹120.00/unit = ₹240.00
+  TOTAL for FMM: ₹240.00
+
+Intervention: DELINEATORS
+  Quantity Found: 2 item(s)
+  Source Clause: IRC:79-2019, clause 3
+  Cost Breakdown:
+    - MS Delineator Post: 2.00 units @ ₹400.00/unit = ₹800.00
+  TOTAL for Delineators: ₹800.00
+
+-----------------------------------------
+             SUMMARY
+-----------------------------------------
+TOTAL ESTIMATED MATERIAL COST: ₹473722.14
+-----------------------------------------
+(Note: Excludes labor, installation, taxes, etc.)

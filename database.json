@@ -1,0 +1,99 @@
+{
+  "speed limit sign": {
+    "materials_per_item": [
+      {"name": "600mm Retroreflective Sign Face", "quantity": 1, "unit": "each"},
+      {"name": "3m Steel Post", "quantity": 1, "unit": "each"},
+      {"name": "Concrete for Footing", "quantity": 0.3, "unit": "m^3"}
+    ],
+    "source_clause": "IRC:67-2022, clause 14.8.8"
+  },
+  "school ahead sign": {
+    "materials_per_item": [
+      {"name": "900mm Triangular Sign Face (Fluorescent Yellow-Green)", "quantity": 1, "unit": "each"},
+      {"name": "3m Steel Post", "quantity": 1, "unit": "each"},
+      {"name": "Concrete for Footing", "quantity": 0.3, "unit": "m^3"}
+    ],
+    "source_clause": "IRC: 67-2022, clause 15.28"
+  },
+  "informatory fuel pump sign": {
+    "materials_per_item": [
+      {"name": "600mm x 450mm Rectangular Sign Face (Retroreflective)", "quantity": 1, "unit": "each"},
+      {"name": "3m Steel Post", "quantity": 1, "unit": "each"},
+      {"name": "Concrete for Footing", "quantity": 0.3, "unit": "m^3"}
+    ],
+    "source_clause": "IRC: 67-2022, clause 17.7"
+  },
+  "longitudinal markings": {
+    "materials_per_meter": [
+      {"name": "Thermoplastic Paint", "quantity": 0.5, "unit": "kg"},
+      {"name": "Retroreflective Glass Beads", "quantity": 0.025, "unit": "kg"}
+    ],
+    "source_clause": "IRC:35-2015, clause 3.1"
+  },
+  "No Parking sign": {
+    "materials_per_item": [
+      {"name": "600mm Circular Sign Face (Retroreflective)", "quantity": 1, "unit": "each"},
+      {"name": "3m Steel Post", "quantity": 1, "unit": "each"},
+      {"name": "Concrete for Footing", "quantity": 0.3, "unit":"m^3"}
+    ],
+    "source_clause": "IRC: 67-2022, clause 14.7.5"
+  },
+  "Pedestrian crossing sign": {
+    "materials_per_item": [
+      {"name": "900mm Triangular Sign Face (Retroreflective)", "quantity": 1, "unit": "each"},
+      {"name": "3m Steel Post", "quantity": 1, "unit": "each"},
+      {"name": "Concrete for Footing", "quantity": 0.3, "unit":"m^3"}
+    ],
+    "source_clause": "IRC:67-2022, clause 15.27"
+  },
+  "Faded pedestrian crossing": {
+    "materials_per_item": [
+      {"name": "Thermoplastic Paint", "quantity": 35, "unit": "kg"},
+      {"name": "Retroreflective Glass Beads", "quantity": 1.75, "unit": "kg"}
+    ],
+    "source_clause": "IRC:35-2015, clause 11.3"
+  },
+  "road studs": {
+    "materials_per_meter": [
+      {"name": "Red-White Bi-directional road stud", "quantity": 0.111, "unit": "each"}
+    ],
+    "source_clause": "IRC:35-2015, clause 5.4.6, Table 5.1"
+  },
+  "pedestrian crossing marking": {
+    "materials_per_item": [
+      {"name": "Thermoplastic Paint", "quantity": 35, "unit": "kg"},
+      {"name": "Retroreflective Glass Beads", "quantity": 1.75, "unit": "kg"}
+    ],
+    "source_clause": "IRC:35-2015, clause 11.3"
+  },
+  "Pothole": {
+    "materials_per_cubic_meter": [
+      {"name": "Pothole Cold Mix", "quantity": 2400, "unit": "kg"}
+    ],
+    "source_clause": "IRC:82-2023, clause 7.5.3.5"
+  },
+  "Solar blinker": {
+    "materials_per_item": [
+      {"name": "Solar Blinker Unit", "quantity": 1, "unit": "each"}
+    ],
+    "source_clause": "IRC: 93-1985, clause 4.2"
+  },
+  "streetlights": {
+    "materials_per_meter": [
+      {"name": "Complete 9m LED Streetlight Pole", "quantity": 0.04, "unit": "each"}
+    ],
+    "source_clause": "IRC:SP:73-2018, clause 12.4"
+  },
+  "FMM": {
+    "materials_per_item": [
+      {"name": "Flexible Median Marker (FMM)", "quantity": 1, "unit": "each"}
+    ],
+    "source_clause": "IRC:79-2019, clause 4"
+  },
+  "Delineators": {
+    "materials_per_item": [
+      {"name": "MS Delineator Post", "quantity": 1, "unit": "each"}
+    ],
+    "source_clause": "IRC:79-2019, clause 3"
+  }
+}
